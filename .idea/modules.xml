@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/QuestDroidBrowser.iml" filepath="$PROJECT_DIR$/QuestDroidBrowser.iml" />
+      <module fileurl="file://C:\Users\RATNAKAR MISHRA\AndroidStudioProjects\comps_A_project\Assignment\QuestDroidBrowser\QuestDroidBrowser.iml" filepath="C:\Users\RATNAKAR MISHRA\AndroidStudioProjects\comps_A_project\Assignment\QuestDroidBrowser\QuestDroidBrowser.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\RATNAKAR MISHRA\AndroidStudioProjects\comps_A_project\Assignment\QuestDroidBrowser\app\app.iml" filepath="C:\Users\RATNAKAR MISHRA\AndroidStudioProjects\comps_A_project\Assignment\QuestDroidBrowser\app\app.iml" />
     </modules>
   </component>
 </project>
